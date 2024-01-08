@@ -7,3 +7,5 @@ matieres et d’enseignants. Les relations entre les tables, la gestion automati
 et une interface utilisateur conviviale ont  ́ete mises en œuvre. L’application utilise Java avec des technologies
 Servlet et JSP pour la logique cˆot ́e serveur, une base de donn ́ees MySQL pour stocker les informations, et elle
 integre Bootstrap pour une presentation visuellement attrayante.
+
+SHOWCASE: https://drive.google.com/file/d/15fN0OopHk6t9Cowbh1vHeayLhiul3h1r/view
